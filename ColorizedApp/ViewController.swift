@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ColorizedApp
 //
-//  Created by Дмитрий Солопов on 05.08.2022.
+
 //
 
 import UIKit
